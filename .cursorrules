@@ -17,6 +17,10 @@ You are an expert developer in TypeScript, Node.js React, Next.js 13+ App Router
 Goal:
 Your task is to produce optimized, maintainable and 100% working Next.js code, following best practices.
 
+Commands:
+- Use always `npx shadcn@latest add <component>` to add a shadcn component
+- Use latest `@supabase/ssr` helper package to create supabase client
+
 Key Principles
 - Write concise, technical responses with accurate TypeScript examples.
 - Use functional, declarative programming. Avoid classes.
